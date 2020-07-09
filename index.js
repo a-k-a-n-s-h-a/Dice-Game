@@ -7,7 +7,7 @@ window.onload=function(){
 
 var arr=["1.png","2.png","3.png","4.png","5.png","6.png"]
 
-var url = "/images/";
+var url = "./images/";
 var player1=random();
 var player2=random();
 
