@@ -36,13 +36,15 @@ img {
   display: flex;
 }
 #message{
-  font-size: 4rem;
-  margin-top: 2rem;
-  margin-bottom: 2rem;
+  font-size: 5rem;
+  margin-top: 5rem;
+  margin-bottom: 3rem;
+  margin-left: auto;
+  margin-right: auto;
   color: blanchedalmond;
   border: 2px inset red;
   border-width: 10px;
-  width: 499px;
+  width: 550px;
 }
 
 .line{
