@@ -1,0 +1,83 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  margin: 2px;
+  font-family: 'Lobster';
+  text-shadow: 5px 0 #232931;
+  font-size: 6rem;
+  color: white;
+}
+
+p {
+  font-size: 2rem;
+  color: white;
+  font-family: 'Indie Flower';
+}
+
+img {
+  width: 80%;
+}
+.mess{
+  justify-content: center;
+  display: flex;
+}
+#message{
+  font-size: 4rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  color: blanchedalmond;
+  border: 2px inset red;
+  border-width: 10px;
+  width: 499px;
+}
+
+.line{
+  width: 16rem;
+    margin-top: 1rem;
+    margin-bottom: 0rem;
+}
+
+.footer-back{
+	background-color:#393E46;	
+}
+  .color{
+	  color: white;
+	  margin-top: 27px;
+    margin-right: 37px;
+  }
+  .icon-effect{
+	  display: flex;
+	  justify-content: center;
+  }
+  .copy{
+	  display: flex;
+	  justify-content: center;
+	  margin-right: 30px;
+  }
+  .insta-color{
+	  color: white;
+	  margin-top: 6px;
+	  margin-right: 10px;
+  }
+  .copy-text{
+	  color: white;
+	  margin-top: 6px;
+	  margin-right: 10px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 1rem;
+	  
+  }
